@@ -1,11 +1,13 @@
 # 2-assignment
 
 ##Project Overview
+
 This project is a simple Vehicle Management System created to demonstrate
 basic Object-Oriented Programming concepts in Java such as inheritance,
 abstraction, method overriding, composition, and aggregation.
 
 ##Class Hierarchy
+
 The abstract class Vehicle represents a general vehicle and contains common
 fields such as brand and year. It also declares abstract methods for starting
 and stopping the engine.
@@ -25,6 +27,7 @@ a driver assigned to it, demonstrating composition.
 5. The program output will appear in the console.
 
 ##Reflection
+
 In this project, I learned how inheritance helps organize code.
 I used one main class for common vehicle data and child classes
 for different types of vehicles.
