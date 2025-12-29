@@ -17,6 +17,13 @@ The Driver class represents a vehicle driver. One driver can be associated
 with multiple vehicles, demonstrating aggregation, while each vehicle has
 a driver assigned to it, demonstrating composition.
 
+## How to Run
+1. Open the project in IntelliJ IDEA.
+2. Make sure all `.java` files are inside the `src` folder.
+3. Open `Main.java`.
+4. Click the Run button.
+5. The program output will appear in the console.
+
 ##Reflection
 In this project, I learned how inheritance helps organize code.
 I used one main class for common vehicle data and child classes
